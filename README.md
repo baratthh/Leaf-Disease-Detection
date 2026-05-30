@@ -1,8 +1,15 @@
-# Leaf-Disease-Detection
+
+[![Home Demo](https://img.shields.io/badge/Demo-Home-green?logo=leaflet)](https://baratthh-leaf-disease-detection.hf.space)
+[![Predict Demo](https://img.shields.io/badge/Demo-Predict-blue?logo=github)](https://baratthh-leaf-disease-detection.hf.space/predict)
+[![Research Paper](https://img.shields.io/badge/Paper-PDF-red?logo=adobeacrobatreader)](https://baratthh-leaf-disease-detection.hf.space/static/assets/home/Integrating-Higher-Order-Fuzzy-Sets-with-ResNeXt101-for-Leaf-Disease-Detection.pdf)
+
+# Leaf-Disease-Detection with Higher-Order Fuzzy Sets
 
 A compact Flask demo for plant leaf disease classification that combines higher-order fuzzy preprocessing with CNN inference.
 
- [Leaf Disease Detection Demo](https://baratthh-leaf-disease-detection.hf.space)
+# [Leaf Disease Detection Demo](https://baratthh-leaf-disease-detection.hf.space)
+
+## [Leaf Disease Detection Demo - Predict](https://baratthh-leaf-disease-detection.hf.space/predict)
 
 
 ## Abstract
