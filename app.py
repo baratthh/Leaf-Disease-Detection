@@ -59,7 +59,7 @@ SITE_CONTENT = {
     'portfolio_url': 'https://barathk.vercel.app/',
     'personal_url': os.environ.get('PERSONAL_PROFILE_URL', 'https://github.com/baratthh'),
     'github_url': 'https://github.com/baratthh/Leaf-Disease-Detection',
-    'huggingface_url': 'https://huggingface.co/baratthh/Leaf-disease-detection',
+    'huggingface_url': 'https://huggingface.co/spaces/Baratthh/Leaf-disease-detection',
     'pdf_name': 'Integrating-Higher-Order-Fuzzy-Sets-with-ResNeXt101-for-Leaf-Disease-Detection.pdf',
     'pdf_asset': 'assets/home/Integrating-Higher-Order-Fuzzy-Sets-with-ResNeXt101-for-Leaf-Disease-Detection.pdf',
     'workflow_svg': 'assets/home/sop_workflow.svg',

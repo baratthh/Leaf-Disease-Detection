@@ -13,6 +13,9 @@ short_description: Leaf disease classification demo with fuzzy preprocessing
 
 A compact Flask demo for plant leaf disease classification that combines higher-order fuzzy preprocessing with CNN inference.
 
+ [Leaf Disease Detection Demo](https://baratthh-leaf-disease-detection.hf.space)
+
+
 ## Abstract
 
 In real field conditions, leaf disease classification is challenged by background clutter, variable illumination, and lesions that may cover only a fraction of a leaf. This project compares intuitionistic, Pythagorean, and Fermatean fuzzy preprocessing applied to the Value channel (HSV) before CNN inference, evaluating ResNeXt101-32x8d and EfficientNetV2-S on a twelve-class plant disease task. The web demo provides interactive preprocessing, inference, and an embedded project report.
