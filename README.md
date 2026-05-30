@@ -1,14 +1,3 @@
----
-title: Leaf Disease Detection
-emoji: 🌿
-colorFrom: green
-colorTo: yellow
-sdk: docker
-pinned: false
-license: mit
-short_description: Leaf disease classification demo with fuzzy preprocessing
----
-
 # Leaf-Disease-Detection
 
 A compact Flask demo for plant leaf disease classification that combines higher-order fuzzy preprocessing with CNN inference.
