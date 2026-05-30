@@ -65,4 +65,4 @@ Workflow / SOP overview:
 
 ## License
 
-MIT
+[MIT](LICENSE)
