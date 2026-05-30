@@ -1,3 +1,14 @@
+---
+title: Leaf Disease Detection
+emoji: 🌿
+colorFrom: green
+colorTo: yellow
+sdk: docker
+pinned: false
+license: mit
+short_description: Leaf disease classification demo with fuzzy preprocessing
+---
+
 # Leaf-Disease-Detection
 
 A compact Flask demo for plant leaf disease classification that combines higher-order fuzzy preprocessing with CNN inference.
@@ -9,7 +20,7 @@ In real field conditions, leaf disease classification is challenged by backgroun
 ## Key Features
 
 - Interactive web UI for uploading or selecting sample images
-- Three higher-order fuzzy preprocessing methods (Intuitionistic, Pythagorean, Fermatean)
+- Three higher-order fuzzy preprocessing methods: Intuitionistic, Pythagorean, Fermatean
 - Two CNN backbones for inference: ResNeXt101 and EfficientNetV2-S
 - Lazy-loading model endpoints and model-status API for lightweight deployments
 - Embedded project report with figures and comparisons
@@ -58,7 +69,7 @@ Workflow / SOP overview:
 
 ## Live Demo
 
-- Hugging Face Space (example): https://huggingface.co/spaces/Baratthh/leaf-disease-detection
+- Hugging Face Space: https://huggingface.co/spaces/Baratthh/leaf-disease-detection
 
 ## License
 
