@@ -1,0 +1,54 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+.venv/
+venv/
+env/
+myenv/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# Model binaries and caches
+/models/*
+!/models/.gitkeep
+*.pth
+*.pt
+*.bin
+*.gguf
+*.pkl
+*.safetensors
+model_cache/
+.cache/
+.hf/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+*.ipynb
+
+# Logs
+*.log
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# IDEs
+.vscode/
+.idea/
+
+# Old versions / duplicates (mentioned during planning)
+versions_old/
+Leaf-Disease-Detection/
+COPYYYY/
+
+# Keep important repo files (do not ignore)
+# Do not add: static/, templates/, app.py, requirements.txt, README.md

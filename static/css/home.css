@@ -1,0 +1,13 @@
+.home-hero { min-height: 100vh; display: flex; align-items: center; justify-content: center; text-align: center; padding: 8rem 0 4rem; }
+.home-title { font-size: clamp(1.8rem, 4vw, 3.2rem); line-height: 1.08; letter-spacing: -0.02em; }
+.home-report-section { padding: 5rem 0; }
+.report-shell { margin-top: 2rem; padding: 1.5rem; border-radius: 18px; background: var(--panel); border: 1px solid var(--line-soft); box-shadow: var(--shadow); }
+.report-viewer { width: 100%; min-height: 680px; border: 1px solid var(--line); border-radius: 14px; background: #fff; }
+.report-controls { display: flex; gap: 0.75rem; justify-content: center; flex-wrap: wrap; margin: 1rem 0 1.5rem; }
+.report-btn { display: inline-flex; align-items: center; justify-content: center; padding: 0.7rem 1rem; border-radius: 999px; border: 1px solid var(--line); background: var(--green-soft); color: var(--text); text-decoration: none; cursor: pointer; }
+.tex-block { display: none; margin-top: 1rem; }
+.tex-block pre { max-height: 720px; overflow: auto; white-space: pre-wrap; padding: 1rem; border-radius: 14px; background: #0f1724; color: #d1d5db; border: 1px solid var(--line); font-family: 'JetBrains Mono', monospace; font-size: 0.86rem; }
+.figures-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 1rem; margin-top: 1.5rem; }
+.figure-card { border-radius: 14px; overflow: hidden; border: 1px solid var(--line-soft); background: var(--panel); }
+.figure-card img { display: block; width: 100%; height: auto; }
+@media (max-width: 768px) { .home-hero { padding-top: 6rem; } .report-viewer { min-height: 420px; } }
