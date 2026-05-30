@@ -1,4 +1,3 @@
-
 # Leaf-Disease-Detection
 
 A compact Flask demo for plant leaf disease classification that combines higher-order fuzzy preprocessing with CNN inference.
